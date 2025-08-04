@@ -1,0 +1,4 @@
+Flask
+gTTS
+wikipedia
+gunicorn  # Necesario para ejecutar Flask en producción en Render
